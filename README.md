@@ -43,4 +43,4 @@ An institutional-grade portfolio analysis tool built for modern quantitative ana
 
 ## 👨‍💻 Author
 Built by **Abdellah Maghous** - M.Sc. Mathematical & Computational Finance.
-Feel free to connect with me on [LinkedIn](#https://www.linkedin.com/abdellahmaghous).
+Feel free to connect with me on [LinkedIn](#).
